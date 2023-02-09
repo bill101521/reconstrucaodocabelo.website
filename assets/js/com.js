@@ -104,4 +104,3 @@ setTimeout(function() {
 var today = new Date()
 today.setDate(today.getFullYear() + 1)
 setCookie('returningVisitor', 'yes', today)
-<div id="vid_63e465bd3a0b38000a47582a" style="position:relative;width:100%;padding: 56.25% 0 0;"><img id="thumb_63e465bd3a0b38000a47582a" src="https://images.converteai.net/d0dea0fe-8b37-41fb-afa9-0a2bdfb972d8/players/63e465bd3a0b38000a47582a/thumbnail.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;display:block;"><div id="backdrop_63e465bd3a0b38000a47582a" style="position:absolute;top:0;width:100%;height:100%;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);"></div></div><script type="text/javascript" id="scr_63e465bd3a0b38000a47582a">var s=document.createElement("script");s.src="https://scripts.converteai.net/d0dea0fe-8b37-41fb-afa9-0a2bdfb972d8/players/63e465bd3a0b38000a47582a/player.js",s.async=!0,document.head.appendChild(s);</script>
